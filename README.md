@@ -3,7 +3,7 @@
 A Machine Learning web application that predicts the price of used cars using Linear Regression and Streamlit.
 
 ## 🔗 Live Demo
-https://himanshu-pall-car-price-predictor-streamlit-app-a9jt00.streamlit.app
+https://himanshu-pall-car-price-predictor-streamlit-app-a8jto0.streamlit.app/
 
 ## 📂 GitHub Repository
 https://github.com/Himanshu-pall/Car-Price-Predictor
